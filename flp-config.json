@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.orders.Orders",
+        "description": "Browse Orders",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#Orders-Display",
+        "navigationComponentName": "opensap.orders",
+        "intentSemanticObject": "Orders",
+        "intentAction": "Display",
+        "html5ApplicationName": "orders",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "07aa98b2-c239-4899-8b3f-29da426982a4-1590036552659"
+        ],
+        "contentPackages": [
+            "136068f7-cfa4-415b-8083-18f38d228f05-1590036478893"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Orders",
+        "subtitle": "Browse Orders",
+        "searchKeywords": "Orders,Browse Orders",
+        "displayIconUrl": "sap-icon://sales-order-item",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
